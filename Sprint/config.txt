@@ -1,0 +1,3 @@
+﻿setToggleMode=true
+energyCost=0.04
+speed=7.0

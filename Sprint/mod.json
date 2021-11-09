@@ -1,0 +1,11 @@
+{
+  "Id": "Sprint",
+  "DisplayName": "Sprint",
+  "Author": "Oldark",
+  "Version": "1.1",
+  "Requires": [ ],
+  "Enable": true,
+  "AssemblyName": "Sprint.dll",
+  "EntryMethod": "Sprint.MainPatcher.Patch",
+  "Config": {}
+}
